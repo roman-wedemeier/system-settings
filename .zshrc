@@ -92,6 +92,7 @@ alias nr='npm run'
 JAVA_HOME='/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/'
 
 export PYTHONPATH=/Users/roman/projekte/bumba_scripts/lib:$PYTHONPATH
+export PATH=/usr/local/bin:$PATH
 
 # MacPorts
 export PATH=/opt/local/bin:/opt/local/sbin:$PATH
