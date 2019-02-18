@@ -93,10 +93,3 @@ JAVA_HOME='/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/'
 
 export PYTHONPATH=~/projekte/bumba_scripts/lib:$PYTHONPATH
 export PATH=/usr/local/bin:$PATH
-
-# MacPorts
-export PATH=/opt/local/bin:/opt/local/sbin:$PATH
-
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
