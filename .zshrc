@@ -103,3 +103,6 @@ export NVM_DIR="$HOME/.nvm"
 
 ### valet-plus
 export PATH="$PATH:$HOME/.composer/vendor/bin"
+
+### symfony
+export PATH="$HOME/.symfony/bin:$PATH"
